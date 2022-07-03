@@ -1,6 +1,8 @@
 # 🏝 제3회 오아시스 해커톤 (Oasis Hackathon)🏝
 
-![iOS 이미지](https://user-images.githubusercontent.com/64114699/177028252-a63d8041-f606-4d71-8b99-53077df1200a.jpg)
+
+<img width="610" alt="스크린샷 2022-07-03 오후 4 12 31" src="https://user-images.githubusercontent.com/64114699/177029265-0068fb26-2104-474c-96e4-058d5d7152bb.png">
+
 
 
 ### <Git 사용 가이드>
