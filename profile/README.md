@@ -23,6 +23,7 @@
 
 ### 💻Repository 이름 바꾸는 방법
 ###### 부여 받은 저장소(Repository) > settings > Options > Repository name 수정 후 Rename버튼 클릭
+###### [팀이름]으로 설정 부탁드립니다.
 
 
 ### 💻.gitignore 생성 방법
