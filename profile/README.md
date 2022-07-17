@@ -33,7 +33,7 @@
 ###### ● 파일 수정 $ vi .gitignore
 
 ### 💻Project README.md 작성법
-###### [예시 epo](https://github.com/2022-oasis-hackathon/example_repo)를 참고해주세요!
+###### [예시 Repo](https://github.com/2022-oasis-hackathon/example_repo)를 참고해주세요!
 
 ### 💻GitHub 사용을 체크하여 대회 기간 동안 참여자들이 직접 개발을 진행했는지에 대한 확인이 이루어집니다.
 ##### 다음과 같은 기준으로 직접 개발 여부를 확인하며, 타인의 도움을 받거나 기존의 작품을 그대로 제출할 경우 시상에서 제외됩니다.
